@@ -1,4 +1,4 @@
-
+package Mypackage;
 public class Account {
 	private String FirstName;
 	private static String Username;
