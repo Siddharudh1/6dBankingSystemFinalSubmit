@@ -1,3 +1,4 @@
+package Mypackage;
 public class ATM {
 	public static AccountOperation acc = null;
 	public static void viewBalance(String username,long pin) {
